@@ -28,6 +28,7 @@ app.route('/special')
   });
 
 app.use(function (err, req, res, next) {
+  if (!err.isBot) return res.send(500);
   if (err.code) res.statusCode = err.code;
   res.json(err);
 });
