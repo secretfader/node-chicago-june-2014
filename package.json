@@ -24,7 +24,7 @@
     "apex": "0.0.5",
     "distill": "0.0.3",
     "enforcer": "0.0.3",
-    "errbot": "0.0.1",
+    "errbot": "0.0.3",
     "express": "^4.4.3"
   }
 }
