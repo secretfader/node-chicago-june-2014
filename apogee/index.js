@@ -2,7 +2,7 @@ var express = require('express')
 ,   apogee  = require('apogee')
 ,   app     = express();
 
-app.use(apogee.config({ header: 'X-API-Version', default: 'v2' }));
+app.use(apogee.config({ header: 'X-API-Version', default: 'v1' }));
 
 app.route('/')
   .get(function (req, res) {
