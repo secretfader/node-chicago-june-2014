@@ -22,6 +22,14 @@ A friendly little robot that helps you with error handling.
 
 ## License
 
+**Code**
+
 All code in this repository is released under the Beerware license. If you like it (or it helps you), give me credit, and buy me a beer (Half Acre, Metropolitan, 5 Rabbit, or Three Floyd's preferred).
+
+**Presentation**
+
+&copy; 2014 Nicholas Young/Original Machine LLC. BY-NC-SA.
+
+**Dependencies**
 
 Any linked projects are released under their own licenses. Please see [@OriginalMachine](http://github.com/originalmachine) for more details.
