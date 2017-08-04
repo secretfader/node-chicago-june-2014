@@ -1,5 +1,7 @@
 # Node.js Chicago June 2014
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/node-chicago-june-2014.svg)](https://greenkeeper.io/)
+
 In June 2014, I gave a talk at the [Chicago Node.js Meetup](www.meetup.com/Chicago-Nodejs/events/172986572). In this repository, you'll find several projects that show off the open source contributions I've made as part of [The Machine](http://machine.fm) and [Mixdown](http://mixdown.co) projects.
 
 ## Projects
