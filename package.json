@@ -17,14 +17,14 @@
   },
   "homepage": "https://github.com/nicholaswyoung/node-chicago-june-2014",
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "chai": "^1.9.1"
+    "mocha": "^3.5.0",
+    "chai": "^4.1.0"
   },
   "dependencies": {
-    "apogee": "0.0.2",
+    "apogee": "1.0.2",
     "distill": "0.0.3",
-    "enforcer": "0.0.3",
-    "errbot": "0.0.3",
+    "enforcer": "0.1.5",
+    "errbot": "1.0.0",
     "express": "^4.4.3"
   }
 }
